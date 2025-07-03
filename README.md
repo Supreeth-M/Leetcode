@@ -14,6 +14,7 @@ leetcode solved problems
 | ------- |
 | [0001-two-sum](https://github.com/Supreeth-M/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Supreeth-M/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Supreeth-M/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Matrix
 |  |
 | ------- |
@@ -38,6 +39,7 @@ leetcode solved problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Supreeth-M/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Supreeth-M/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Supreeth-M/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -47,4 +49,5 @@ leetcode solved problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Supreeth-M/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Supreeth-M/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
