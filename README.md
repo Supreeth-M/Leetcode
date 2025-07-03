@@ -33,4 +33,12 @@ leetcode solved problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Supreeth-M/Leetcode/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Supreeth-M/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Supreeth-M/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
